@@ -6,7 +6,9 @@ Este projeto tem como objetivo analisar um dataset de funcionários, utilizando 
 ### Linguagem: Python
 ## Bibliotecas:
 *Pandas: manipulação e análise de dados
+
 *Matplotlib: criação de visualizações gráficas
+
 *Seaborn: estilização e otimização dos gráficos
 
 ## Análises Realizadas
